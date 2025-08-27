@@ -98,4 +98,4 @@ install.packages(c(
 
 ---
 
-"# BAYESIAN-REGRESSION-R" 
+
