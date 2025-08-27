@@ -1,7 +1,7 @@
 
 ---
 
-# 📘 Projet de Régression Bayésienne et Pénalisée en R
+# Projet de Régression Bayésienne et Pénalisée en R
 
 ## Objectif
 
@@ -19,7 +19,7 @@ Les principales approches comparées sont :
 
 ---
 
-## 📦 Installation
+## Installation
 
 Avant de lancer les scripts, assurez-vous d’avoir R et RStudio installés, puis installez les packages nécessaires :
 
